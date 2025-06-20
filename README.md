@@ -20,9 +20,10 @@ Welcome to my GitHub! I'm passionate about building **responsive**, **interactiv
 
 | Project | Tech Stack | Live Demo |
 |--------|------------|-----------|
-| 🖥️ **Apple-Style Product Page** | React, Tailwind, GSAP | [View Live](apple-clone-three-beta.vercel.app) |
-| 🧠 **Brainwave Portfolio** | React, Tailwind, GSAP | [View Live](brainwave-clone-tau.vercel.app) |
-| 🏨 **Crowny Hotel Website** | HTML, CSS, JavaScript | [View Live](crowny-github-io.vercel.app) |
+| 🖥️ **Apple-Style Product Page** | React, Tailwind, GSAP | [View Live ↗](https://apple-clone-three-beta.vercel.app) |
+| 🧠 **Brainwave Portfolio** | React, Tailwind, GSAP | [View Live ↗](https://brainwave-clone-tau.vercel.app) |
+| 🏨 **Crowny Hotel Website** | HTML, CSS, JavaScript | [View Live ↗](https://crowny-github-io.vercel.app) |
+
 
 > Want a detailed breakdown of these? Check the pinned repos or visit my portfolio!
 
