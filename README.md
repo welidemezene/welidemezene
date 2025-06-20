@@ -58,10 +58,11 @@ Welcome to my GitHub! I'm passionate about building **responsive**, **interactiv
 
 ## 🤝 Let's Connect!
 
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/welidemedhinmezene/))
-- 📫 Email: woldemedihnmezene@gmail.com
-- 📁 [Upwork Profile]((https://www.upwork.com/freelancers/~013cb970d785aad5d1))
-- 💼 Portfolio: (Coming soon)
+- ➤ 🌐 [LinkedIn](https://www.linkedin.com/in/welidemedhinmezene/)
+- ➤ 📫 Email: woldemedihnmezene@gmail.com
+- ➤ 📁 [Upwork Profile](https://www.upwork.com/freelancers/~013cb970d785aad5d1)
+- ➤ 💼 Portfolio: (Coming soon)
+
 
 ---
 
