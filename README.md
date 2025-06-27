@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Welidemedhin Mezene
+# 👋 Hi, I'm Woldemedihn Mezene
 
 🎯 **Front-End Developer | React • Tailwind CSS • GSAP • Three.js | Clean UI/UX Specialist**
 
