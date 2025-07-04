@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Woldemedihn Mezene
 
-🎯 **Front-End Developer | React • Tailwind CSS • GSAP • Three.js | Clean UI/UX Specialist**
+🎯 **Creative Front-End Developer | GSAP, Three.js, React |Animated Website**
 
 Welcome to my GitHub! I'm passionate about building **responsive**, **interactive**, and **high-performance** websites using modern front-end tools.
 
