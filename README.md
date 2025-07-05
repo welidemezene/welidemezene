@@ -50,13 +50,6 @@ Welcome to my GitHub! I'm passionate about building **responsive**, **interactiv
 
 ---
 
-## 📊 GitHub Stats
-
-![Welidemedhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=welidemezene&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welidemezene&layout=compact&theme=radical)
-
----
-
 ## 🤝 Let's Connect!
 
 - ➤ 🌐 [LinkedIn](https://www.linkedin.com/in/welidemedhinmezene/)
